@@ -2,11 +2,15 @@
 
 ## Influence-Based Variance Estimation for Log-Linear and Logistic Regression on Case-Cohort Data
 
-Computation of the influence-based variance estimate following the complete variance decomposition, for parameter estimated from case-cohort data and glmgee or glm commands with log or login link.
+Computation of the influence-based variance estimate following the complete variance decomposition, for parameter estimated from case-cohort data with glmgee or glm commands and log or login link.
 
 ## Installation
 
-Download file binarycc_0.1.0.tar.gz and install in R via Package Archive File option.
+Download file binarycc_0.1.0.tar.gz and install locally in R 
+
+```
+install.packages("~path_to_file\binarycc_0.1.0.tar.gz", repos = NULL, type="source")
+```
 
 ## Reference
 
