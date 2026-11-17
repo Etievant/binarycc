@@ -6,10 +6,10 @@ Computation of the influence-based variance estimate following the complete vari
 
 ## Installation
 
-Download file binarycc_0.1.0.tar.gz and install locally in R 
+Download file binarycc_0.1.0.tar.gz and install locally in R, from the Install button in the Packages pane in RStudio, or with
 
 ```
-install.packages("~path_to_file\binarycc_0.1.0.tar.gz", repos = NULL, type="source")
+install.packages("~/path_to_file/binarycc_0.1.0.tar.gz", repos = NULL, type = "source")
 ```
 
 ## Reference
